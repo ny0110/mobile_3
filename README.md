@@ -1,16 +1,7 @@
-# mobile_3
+# Практическая работа 3
 
-A new Flutter project.
+Тимошина Полина, ЭФБО-05-22
 
-## Getting Started
+<img width="1440" alt="Снимок экрана 2024-10-18 в 00 58 00" src="https://github.com/user-attachments/assets/c45b5dba-b08c-47bd-9977-793669c84ee9">
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="1440" alt="Снимок экрана 2024-10-18 в 00 57 51" src="https://github.com/user-attachments/assets/bc76af93-6317-404d-840b-38456c7c7a97">
